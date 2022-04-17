@@ -15,3 +15,13 @@ lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AW
 
 #6. Using the summary() function, determine the p-value and the r-squared value for the linear regression model.
 summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, data=mecha_mpg))
+
+
+# Deliverable 2
+#2. Import and read in the Suspension_Coil.csv file as a table
+mecha_coil <- read.csv(file='C:/Users/galle/Google Drive/BootCamp/Module15/Challenge/MechaCar/resources/Suspension_Coil.csv',check.names=F,stringsAsFactors = F) 
+
+
+
+
+
