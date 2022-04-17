@@ -28,7 +28,7 @@ Tis model has a variance of 0.7149 which translate to 71% of MPG prediction, typ
 * Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 According to the total summary, the overall variance is under 100 psi, however, the lot summary shows the variance for lot 3 is obove the tolerance at 170.28 psi.
 
-## Deliverable 2
+## Deliverable 3
 ### Results
 **Test. determine if the PSI across ALL lots is statistically different from the pop. mean of 1,500 PSI**
 ![ouput3_1](https://github.com/IrvingHdez/MechaCar_Statistical_Analysis/blob/main/images/Del_3_1.PNG)
