@@ -32,6 +32,8 @@ According to the total summary, the overall variance is under 100 psi, however, 
 ### Results
 **Test. determine if the PSI across ALL lots is statistically different from the pop. mean of 1,500 PSI**
 ![ouput3_1](https://github.com/IrvingHdez/MechaCar_Statistical_Analysis/blob/main/images/Del_3_1.PNG)
+* The T-test accross all manufacturing lots shows that they are not too statistically different from the mean and the p-value is not small enough to reject the null hypothesis.
 
 **Test. determine if PSI for each manufacturing lot is statistically different from the pop. mean of 1,500 PSI**
 ![ouput3_2](https://github.com/IrvingHdez/MechaCar_Statistical_Analysis/blob/main/images/Del_3_2.PNG)
+* The T-test for lot 3 shows that they are slightly statistically different from the mean and the p-value is small enough to reject the null hypothesis.
