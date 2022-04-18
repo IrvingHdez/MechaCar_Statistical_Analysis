@@ -37,3 +37,22 @@ According to the total summary, the overall variance is under 100 psi, however, 
 **Test. determine if PSI for each manufacturing lot is statistically different from the pop. mean of 1,500 PSI**
 ![ouput3_2](https://github.com/IrvingHdez/MechaCar_Statistical_Analysis/blob/main/images/Del_3_2.PNG)
 * The T-test for lot 3 shows that they are slightly statistically different from the mean and the p-value is small enough to reject the null hypothesis.
+
+## Deliverable 4
+## Study Design: MechaCar vs Competition
+Any company in the auto industry should consider the next metrics to perform statistical analysis in order to be ahead of the competition.
+
+**Metrics**
+* Safety 
+* Price 
+* Re-sale value
+* Class category (premium vs economy)
+* Fuel Economy
+* Engine type
+
+**Null Hypothesis**
+Null Hypothesis (Ho): MechaCar has not statistical difference between fuel efficiency with the competitors.
+Alternative Hypothesis (Ha): MechaCar fuel efficiency is greater than the median of the competitors.
+
+**Statistical Tests**
+A multiple linear regression would be used to determine the factors that have the highest correlation/predictability.
